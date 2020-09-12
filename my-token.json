@@ -1,0 +1,49 @@
+{
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "rETH": {
+      "name": "Testcoin for rETH",
+      "description": "Tokens that are for testing"
+    },
+    "rUSDT": {
+      "name": "Testcoin for rUSDT",
+      "description": "Tokens that are for testing"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0x03547314c380501EaAf68934DD29a7b2Ac124daF",
+      "symbol": "rETH",
+      "name": "token00",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "rETH"
+      ]
+    },
+    {
+      "chainId": 3,
+      "address": "0x665df9AAF5e8690F052C5AF7108dE70C9d3Ed084",
+      "symbol": "rUSDT",
+      "name": "token11",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+        "rUSDT"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 2
+  }
+}
